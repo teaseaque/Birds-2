@@ -1,0 +1,225 @@
+{
+  "sounds" : [
+    {
+      "name" : "American Robin",
+      "color" : "FF9500",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Asian Koel",
+      "color" : "FF3B30",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Atlantic Puffin",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Bald Eagle",
+      "color" : "FFCC00",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Barn Owl",
+      "color" : "C8872E",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Barn Swallow",
+      "color" : "FF3B30",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Black-Capped Chickadee",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Canada Goose",
+      "color" : "34C759",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Canary",
+      "color" : "FFCC00",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Cardinal",
+      "color" : "FF3B30",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Crow",
+      "color" : "AF43EB",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Cuckoo",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Eurasian Wren",
+      "color" : "A06B23",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "European Robin",
+      "color" : "FF9500",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Flamingo",
+      "color" : "EB5B9A",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Horned Lark",
+      "color" : "FFCC00",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Horned Owl",
+      "color" : "A06B23",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "House Sparrow",
+      "color" : "FF9500",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Hyacinth Macaw",
+      "color" : "34C759",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Indigo Bunting",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Laughing Kookaburra",
+      "color" : "858585",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Loon",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Magellanic Penguin",
+      "color" : "DA6498",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Mallard Duck",
+      "color" : "34C759",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Northern Flicker",
+      "color" : "FF9500",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Northern Mockingbird",
+      "color" : "A06B23",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Osprey",
+      "color" : "FFCC00",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Parakeet",
+      "color" : "34C759",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Peafowl",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Pileated Woodpecker",
+      "color" : "FF3B30",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Purple Martin",
+      "color" : "8C33B6",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Raven",
+      "color" : "858585",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Red Winged Blackbird",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Rock Dove",
+      "color" : "34C759",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Rooster",
+      "color" : "FF3B30",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Snipe",
+      "color" : "A06B23",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Starling",
+      "color" : "CB6B96",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Swift",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Tern",
+      "color" : "999999",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Tufted Titmouse",
+      "color" : "FF9500",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Turkey",
+      "color" : "FF3B30",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Veery",
+      "color" : "A06B23",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Whooper Swan",
+      "color" : "FFCC00",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Wood Pigeon",
+      "color" : "999999",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Wood Thrush",
+      "color" : "FF9500",
+      "image" : "jpeg"
+    }
+  ],
+  "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
+  "name" : "Birds",
+  "image" : "bird.fill",
+  "color" : "8C33B6"
+}
